@@ -1,4 +1,3 @@
 # My-LeetCode
-This project includes my practice in LeetCode.  
-If you want to read my code, please find them in "master".  
-Sorry I'm apparently a freshman and I didn't know some rules here.  
+
+算法笔记，主要是力扣上的题，根据代码随想录划分了章节
